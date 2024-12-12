@@ -82,14 +82,6 @@ Contributions are welcome! Feel free to open an issue or create a pull request t
 
 ---
 
-## 🎨 Screenshot
-
-Here is a folder view of the project structure:
-
-![Folder View](image.png)
-
----
-
 ## 📊 Time and Space Complexities
 
 | Algorithm           | Best Case    | Average Case | Worst Case   | Space Complexity |

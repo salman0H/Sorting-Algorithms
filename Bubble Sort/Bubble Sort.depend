@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702726104 source:d:\3.myproject\2.c++\sort\bubble sort\main.cpp
+	<iostream>
+	<random>
+	<iomanip>
+

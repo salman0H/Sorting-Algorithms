@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1702724487 source:d:\3. my project\2. c++\sort\insertiom sort\main.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<string>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702729914 source:d:\3.myproject\2.c++\sort\selection sort\main.cpp
+	<iostream>
+	<random>
+	<iomanip>
+
